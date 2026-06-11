@@ -7,7 +7,7 @@ cask "kiro-kantoku" do
   desc "macOS GUI for managing Kiro CLI agents and tasks"
   homepage "https://github.com/ryancormack/kiro-kantoku"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "KiroKantoku.app"
 end
