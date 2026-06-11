@@ -1,6 +1,6 @@
 cask "kiro-kantoku" do
-  version "0.0.3"
-  sha256 "2d99defba590b91187e4a672e254672099b3776f59d23781ff0ae9e22677568c"
+  version "0.0.4"
+  sha256 "9f14d491a58055679f6fa2b2667bd85d46e9ab66d5ff489ac22ac9c58a07b910"
 
   url "https://github.com/ryancormack/kiro-kantoku/releases/download/v#{version}/KiroKantoku-#{version}.dmg"
   name "Kiro Kantoku"
